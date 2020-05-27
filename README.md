@@ -2,6 +2,8 @@
 Comandos para la interfase de linea de comandos de linux CLI Bash
 
 
-- Para copiar
+##### Copiar archivos
 * scp
 * cp
+* sFTP
+* rsync
